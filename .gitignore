@@ -1,7 +1,5 @@
-node_modules
-dist
-dist-ssr
-*.local
+admin-quest/node_modules
+admin-quest/dist
+*.log
 .vscode
 .idea
-*.log
